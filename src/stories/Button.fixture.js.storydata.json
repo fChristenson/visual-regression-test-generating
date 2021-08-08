@@ -1,0 +1,326 @@
+[
+  {
+    "primary": true,
+    "backgroundColor": "#4b1b4f",
+    "size": "small",
+    "label": "voluptas veniam omnis esse ad et vitae atque illum aliquam"
+  },
+  {
+    "primary": true,
+    "backgroundColor": "#4b1b4f",
+    "size": "small",
+    "label": "ex tempore rerum"
+  },
+  {
+    "primary": true,
+    "backgroundColor": "#4b1b4f",
+    "size": "small",
+    "label": "quis"
+  },
+  {
+    "primary": true,
+    "backgroundColor": "#4b1b4f",
+    "size": "medium",
+    "label": "voluptas veniam omnis esse ad et vitae atque illum aliquam"
+  },
+  {
+    "primary": true,
+    "backgroundColor": "#4b1b4f",
+    "size": "medium",
+    "label": "ex tempore rerum"
+  },
+  {
+    "primary": true,
+    "backgroundColor": "#4b1b4f",
+    "size": "medium",
+    "label": "quis"
+  },
+  {
+    "primary": true,
+    "backgroundColor": "#4b1b4f",
+    "size": "large",
+    "label": "voluptas veniam omnis esse ad et vitae atque illum aliquam"
+  },
+  {
+    "primary": true,
+    "backgroundColor": "#4b1b4f",
+    "size": "large",
+    "label": "ex tempore rerum"
+  },
+  {
+    "primary": true,
+    "backgroundColor": "#4b1b4f",
+    "size": "large",
+    "label": "quis"
+  },
+  {
+    "primary": true,
+    "backgroundColor": "#4a067d",
+    "size": "small",
+    "label": "voluptas veniam omnis esse ad et vitae atque illum aliquam"
+  },
+  {
+    "primary": true,
+    "backgroundColor": "#4a067d",
+    "size": "small",
+    "label": "ex tempore rerum"
+  },
+  {
+    "primary": true,
+    "backgroundColor": "#4a067d",
+    "size": "small",
+    "label": "quis"
+  },
+  {
+    "primary": true,
+    "backgroundColor": "#4a067d",
+    "size": "medium",
+    "label": "voluptas veniam omnis esse ad et vitae atque illum aliquam"
+  },
+  {
+    "primary": true,
+    "backgroundColor": "#4a067d",
+    "size": "medium",
+    "label": "ex tempore rerum"
+  },
+  {
+    "primary": true,
+    "backgroundColor": "#4a067d",
+    "size": "medium",
+    "label": "quis"
+  },
+  {
+    "primary": true,
+    "backgroundColor": "#4a067d",
+    "size": "large",
+    "label": "voluptas veniam omnis esse ad et vitae atque illum aliquam"
+  },
+  {
+    "primary": true,
+    "backgroundColor": "#4a067d",
+    "size": "large",
+    "label": "ex tempore rerum"
+  },
+  {
+    "primary": true,
+    "backgroundColor": "#4a067d",
+    "size": "large",
+    "label": "quis"
+  },
+  {
+    "primary": true,
+    "backgroundColor": "#357e3a",
+    "size": "small",
+    "label": "voluptas veniam omnis esse ad et vitae atque illum aliquam"
+  },
+  {
+    "primary": true,
+    "backgroundColor": "#357e3a",
+    "size": "small",
+    "label": "ex tempore rerum"
+  },
+  {
+    "primary": true,
+    "backgroundColor": "#357e3a",
+    "size": "small",
+    "label": "quis"
+  },
+  {
+    "primary": true,
+    "backgroundColor": "#357e3a",
+    "size": "medium",
+    "label": "voluptas veniam omnis esse ad et vitae atque illum aliquam"
+  },
+  {
+    "primary": true,
+    "backgroundColor": "#357e3a",
+    "size": "medium",
+    "label": "ex tempore rerum"
+  },
+  {
+    "primary": true,
+    "backgroundColor": "#357e3a",
+    "size": "medium",
+    "label": "quis"
+  },
+  {
+    "primary": true,
+    "backgroundColor": "#357e3a",
+    "size": "large",
+    "label": "voluptas veniam omnis esse ad et vitae atque illum aliquam"
+  },
+  {
+    "primary": true,
+    "backgroundColor": "#357e3a",
+    "size": "large",
+    "label": "ex tempore rerum"
+  },
+  {
+    "primary": true,
+    "backgroundColor": "#357e3a",
+    "size": "large",
+    "label": "quis"
+  },
+  {
+    "primary": false,
+    "backgroundColor": "#4b1b4f",
+    "size": "small",
+    "label": "voluptas veniam omnis esse ad et vitae atque illum aliquam"
+  },
+  {
+    "primary": false,
+    "backgroundColor": "#4b1b4f",
+    "size": "small",
+    "label": "ex tempore rerum"
+  },
+  {
+    "primary": false,
+    "backgroundColor": "#4b1b4f",
+    "size": "small",
+    "label": "quis"
+  },
+  {
+    "primary": false,
+    "backgroundColor": "#4b1b4f",
+    "size": "medium",
+    "label": "voluptas veniam omnis esse ad et vitae atque illum aliquam"
+  },
+  {
+    "primary": false,
+    "backgroundColor": "#4b1b4f",
+    "size": "medium",
+    "label": "ex tempore rerum"
+  },
+  {
+    "primary": false,
+    "backgroundColor": "#4b1b4f",
+    "size": "medium",
+    "label": "quis"
+  },
+  {
+    "primary": false,
+    "backgroundColor": "#4b1b4f",
+    "size": "large",
+    "label": "voluptas veniam omnis esse ad et vitae atque illum aliquam"
+  },
+  {
+    "primary": false,
+    "backgroundColor": "#4b1b4f",
+    "size": "large",
+    "label": "ex tempore rerum"
+  },
+  {
+    "primary": false,
+    "backgroundColor": "#4b1b4f",
+    "size": "large",
+    "label": "quis"
+  },
+  {
+    "primary": false,
+    "backgroundColor": "#4a067d",
+    "size": "small",
+    "label": "voluptas veniam omnis esse ad et vitae atque illum aliquam"
+  },
+  {
+    "primary": false,
+    "backgroundColor": "#4a067d",
+    "size": "small",
+    "label": "ex tempore rerum"
+  },
+  {
+    "primary": false,
+    "backgroundColor": "#4a067d",
+    "size": "small",
+    "label": "quis"
+  },
+  {
+    "primary": false,
+    "backgroundColor": "#4a067d",
+    "size": "medium",
+    "label": "voluptas veniam omnis esse ad et vitae atque illum aliquam"
+  },
+  {
+    "primary": false,
+    "backgroundColor": "#4a067d",
+    "size": "medium",
+    "label": "ex tempore rerum"
+  },
+  {
+    "primary": false,
+    "backgroundColor": "#4a067d",
+    "size": "medium",
+    "label": "quis"
+  },
+  {
+    "primary": false,
+    "backgroundColor": "#4a067d",
+    "size": "large",
+    "label": "voluptas veniam omnis esse ad et vitae atque illum aliquam"
+  },
+  {
+    "primary": false,
+    "backgroundColor": "#4a067d",
+    "size": "large",
+    "label": "ex tempore rerum"
+  },
+  {
+    "primary": false,
+    "backgroundColor": "#4a067d",
+    "size": "large",
+    "label": "quis"
+  },
+  {
+    "primary": false,
+    "backgroundColor": "#357e3a",
+    "size": "small",
+    "label": "voluptas veniam omnis esse ad et vitae atque illum aliquam"
+  },
+  {
+    "primary": false,
+    "backgroundColor": "#357e3a",
+    "size": "small",
+    "label": "ex tempore rerum"
+  },
+  {
+    "primary": false,
+    "backgroundColor": "#357e3a",
+    "size": "small",
+    "label": "quis"
+  },
+  {
+    "primary": false,
+    "backgroundColor": "#357e3a",
+    "size": "medium",
+    "label": "voluptas veniam omnis esse ad et vitae atque illum aliquam"
+  },
+  {
+    "primary": false,
+    "backgroundColor": "#357e3a",
+    "size": "medium",
+    "label": "ex tempore rerum"
+  },
+  {
+    "primary": false,
+    "backgroundColor": "#357e3a",
+    "size": "medium",
+    "label": "quis"
+  },
+  {
+    "primary": false,
+    "backgroundColor": "#357e3a",
+    "size": "large",
+    "label": "voluptas veniam omnis esse ad et vitae atque illum aliquam"
+  },
+  {
+    "primary": false,
+    "backgroundColor": "#357e3a",
+    "size": "large",
+    "label": "ex tempore rerum"
+  },
+  {
+    "primary": false,
+    "backgroundColor": "#357e3a",
+    "size": "large",
+    "label": "quis"
+  }
+]
